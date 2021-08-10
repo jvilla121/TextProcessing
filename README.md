@@ -1,2 +1,2 @@
 # TextProcessing
-Messing around with Python text processing on Shakespreare's play Julius Caesar
+Messing around with Python text processing on Shakespeare's play Julius Caesar
